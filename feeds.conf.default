@@ -1,0 +1,7 @@
+src-git packages http://lqa1101.us.kg/https://github.com/Lienol/openwrt-packages.git;24.10
+src-git luci http://lqa1101.us.kg/https://github.com/Lienol/openwrt-luci.git;24.10
+src-git routing http://lqa1101.us.kg/https://github.com/openwrt/routing.git;openwrt-24.10
+src-git telephony http://lqa1101.us.kg/https://github.com/openwrt/telephony.git;openwrt-24.10
+src-git lienol http://lqa1101.us.kg/https://github.com/Lienol/openwrt-package.git;main
+src-git other http://lqa1101.us.kg/https://github.com/Lienol/openwrt-package.git;other
+src-git opentopd  https://github.com/sirpdboy/sirpdboy-package
